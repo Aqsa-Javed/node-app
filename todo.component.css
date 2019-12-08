@@ -1,0 +1,95 @@
+table {
+    width: 50%;}
+
+ 
+  input{
+    margin-left: 30%;
+    height: 40px;
+    width: 300px;
+    border-color: rgb(231, 191, 142);
+    border-width: 3px;
+    margin-top: 50px; 
+    border-right: none;
+    font-size: 18px;
+    border-radius: 20px;
+    outline: none;
+    padding-left: 5px;
+  }
+  input:hover{
+    border-color:  rgb(250, 175, 84);
+  }
+   
+   table{
+   box-shadow:0 5px 5px -3px rgba(0,0,0,.2),
+    0 8px 10px 1px rgba(0,0,0,.14),
+     0 3px 14px 2px rgba(0,0,0,.12);
+     font-weight: 400;
+    /* padding-left: 50px; */
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    line-height: 40px;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+
+  width: 40%;
+  margin: 0 5% 0 5%;
+  margin-top: 55px;
+  margin-bottom: 30px;
+  margin-left: 400px; }
+  .mat-table{
+    width: 30%;
+    margin: 0 30% 0 30%;
+    margin-top: 35px;
+   height: 80px;
+  } 
+  tr.mat-row {
+    height: 68px;
+  
+  }
+  tr:nth-child(odd){
+   background-color: whitesmoke;
+}
+
+ 
+  
+  .mat-table{
+    transition: flip;
+   
+  }
+  .roundButton{
+    height: 90px;
+    width: 90px;
+    margin-left: -20px;
+    background-color: rgb(88, 190, 88);
+  }
+  .btn2{
+   
+      margin-left: 50px;
+      font-size: .8em;
+      text-align: center;
+      padding: .55em 1em .55em 1.5em;
+       text-decoration: none;
+      border-radius: 3px;
+      -webkit-border-radius: 3px;
+      font-weight: 400;
+      border: 0;
+      font-family:serif;
+     
+      font-size:15px ;
+      outline: none;
+      
+    }
+    button:hover{
+      background-color: rgb(114, 113, 113);
+    }
+  
+  .simpletable{
+    margin-left: 30%;
+  }
+  tr{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ 
+  }
